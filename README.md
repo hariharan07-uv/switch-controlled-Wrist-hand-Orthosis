@@ -253,7 +253,7 @@ in any browser.
 ✔ Multi-Servo Control
 
 ---
-#circuit connection
+# Circuit Connection
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5e7908a-1c3c-4d3b-83d8-e9b6cd94c098" />
 
 ---
